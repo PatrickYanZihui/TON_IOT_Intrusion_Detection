@@ -1,0 +1,10 @@
+normal
+scanning
+dos
+injection
+ddos
+password
+xss
+ransomware
+backdoor
+mitm
